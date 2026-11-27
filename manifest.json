@@ -1,0 +1,13 @@
+{
+  "generated": true,
+  "title": "Módulo 3 · Introducción a la Inteligencia Artificial Generativa",
+  "slug": "introduccion-ia-generativa",
+  "structure": "ediciones",
+  "active_path": "ediciones/2026",
+  "active_year": 2026,
+  "units": [
+    "ediciones/2026"
+  ],
+  "site": "https://sebastiancontz.github.io/ust-diplomado-ia-curso-intro-ia",
+  "source_sha": "c61684498aedd5ca9c57700155bce3715d83b397"
+}
